@@ -1,0 +1,56 @@
+h1
+{
+    color: darkred;
+    margin-left: 40px;
+}
+h2
+{
+    color: darkgreen;
+}
+h3
+{
+    color: blue;
+}
+.center 
+{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    
+}
+.nav li
+{
+    display: inline;
+    margin: 10px;
+    
+}
+.markalar li
+{
+    list-style-position: inside;
+}
+.card
+{
+    height: 300px;
+    width: 300px;
+    border: 1px solid red;
+    border-radius: 5px;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    overflow: auto;
+}
+.card img
+{
+    height: 200px;
+    width: 200px;
+}
+.urunler_isim
+{
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
+.urunler_fiyat
+{
+    font-weight: bold;
+}
